@@ -4,7 +4,7 @@
 My projects combine practical programming with academic research, especially in real-time systems and low-level development.
 
 🔍 **Current Focus:**
-- Embedded C with Raspberry Pi Pico W
+- Embedded C with Raspberry Pi Pico W and STM32
 - ESP32 with FreeRTOS and MQTT
 - Web interfaces for IoT control systems
 - Networking protocols in academic contexts
