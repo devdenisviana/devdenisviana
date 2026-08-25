@@ -31,8 +31,6 @@ My projects focus on low-level systems programming, real-time control, FPGA RTL 
 - **FPGA:** Intel/Altera MAX 10
 - **Software:** Quartus Prime, Cadence Virtuoso, LTspice, Ngspice
 
-📈 **Languages I Use:**
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devdenisviana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
 
 🌐 **Social Links:**
 <div align="left">
