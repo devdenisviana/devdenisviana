@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hello! I’m Denis Jeronimo Viana Filho</h2>
 
-🎓 I am a developer and technical instructor specializing in Embedded Systems, Microelectronics, and Hardware Integration.  
-My projects focus on low-level system architecture, real-time control, FPGA RTL design, and analog/mixed-signal integrated circuit modeling.
+💻 I am a software and hardware developer specializing in Embedded Systems, Microelectronics, and Hardware Integration.  
+My projects focus on low-level systems programming, real-time control, FPGA RTL design, and analog/mixed-signal integrated circuit modeling.
 
 🔍 **Current Focus:**
 - **Digital Logic & FPGA:** RTL Design using Verilog, Intel MAX 10 (DE10-Lite), and Quartus Prime.
@@ -10,6 +10,7 @@ My projects focus on low-level system architecture, real-time control, FPGA RTL 
 - **Systems & Infrastructure:** Linux administration (Rocky Linux) and hardware-level network protocols.
 
 📚 **Areas of Expertise:**
+- Systems Programming (C/C++)
 - Electronic Design Automation (EDA) & IC Layout
 - Field-Programmable Gate Arrays (FPGA) & Hardware Description Languages (HDL)
 - Internet of Things (IoT) architectures and Modbus/MQTT communication
