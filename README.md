@@ -1,30 +1,34 @@
-<h2 align="left">👋 Hello! I’m Denis Viana</h2>
+<h2 align="left">👋 Hello! I’m Denis Jeronimo Viana Filho</h2>
 
-🎓 I'm a developer and academic enthusiast currently working on embedded systems, network protocols, and IoT solutions.  
-My projects combine practical programming with academic research, especially in real-time systems and low-level development.
+🎓 I am a developer and technical instructor specializing in Embedded Systems, Microelectronics, and Hardware Integration.  
+My projects focus on low-level system architecture, real-time control, FPGA RTL design, and analog/mixed-signal integrated circuit modeling.
 
 🔍 **Current Focus:**
-- Embedded C with Raspberry Pi Pico W and STM32
-- ESP32 with FreeRTOS and MQTT
-- Web interfaces for IoT control systems
-- Networking protocols in academic contexts
+- **Digital Logic & FPGA:** RTL Design using Verilog, Intel MAX 10 (DE10-Lite), and Quartus Prime.
+- **Microelectronics & EDA:** Mixed-Signal IC design and simulation utilizing Cadence Virtuoso, LTspice, and Ngspice.
+- **Embedded Firmware:** Bare-metal and FreeRTOS development for RP2040, ESP32, and STM32.
+- **Systems & Infrastructure:** Linux administration (Rocky Linux) and hardware-level network protocols.
 
-📚 **Academic Interests:**
-- Internet of Things (IoT)
-- Real-time operating systems
-- Low-level systems programming
-- Protocol performance evaluation
+📚 **Areas of Expertise:**
+- Electronic Design Automation (EDA) & IC Layout
+- Field-Programmable Gate Arrays (FPGA) & Hardware Description Languages (HDL)
+- Internet of Things (IoT) architectures and Modbus/MQTT communication
+- Real-Time Operating Systems (RTOS)
 
-💻 **Technologies I Work With:**
+💻 **Technologies & Tools:**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="30" alt="Drupal" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" title="React" />
 </div>
+
+🛠️ **Hardware & EDA Stack:**
+- **Microcontrollers:** Raspberry Pi Pico (RP2040), ESP32, STM32
+- **FPGA:** Intel/Altera MAX 10
+- **Software:** Quartus Prime, Cadence Virtuoso, LTspice, Ngspice
 
 📈 **Languages I Use:**
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devdenisviana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
