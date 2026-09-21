@@ -33,7 +33,14 @@ My work focuses on low-level systems programming, real-time control, FPGA RTL de
 
 💻 **Languages & Platforms:**
 
-[![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)](https://github.com/devdenisviana) [![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)](https://github.com/devdenisviana) [![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://github.com/devdenisviana) [![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)](https://github.com/devdenisviana) [![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://github.com/devdenisviana) [![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://github.com/devdenisviana)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+</p>
 
 🎓 **Current Program:** CI-Expert (Universidade Federal do Ceará) — Mixed-Signal Track, applying the Synopsys AMS flow to progressively complex analog blocks: device characterization → current mirrors → op-amps → folded cascode → bandgap references.
 
