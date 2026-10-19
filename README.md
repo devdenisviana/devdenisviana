@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Denis Jerônimo Viana Filho
+## 👋 Hello! I'm Denis Jeronimo Viana Filho
 
 💻 I am a software and hardware developer specializing in Embedded Systems, Microelectronics, and Mixed-Signal (AMS) Integrated Circuit Design.
 My work focuses on low-level systems programming, real-time control, FPGA RTL design, and analog/mixed-signal IC modeling and simulation using the Synopsys EDA suite.
