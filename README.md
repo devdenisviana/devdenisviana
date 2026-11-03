@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Denis Jeronimo Viana Filho
 
-💻 I am a software and hardware developer specializing in Embedded Systems, Microelectronics, and Mixed-Signal (AMS) Integrated Circuit Design.
+💻 I am a software and hardware developer specializing in Embedded Systems, Microelectronics, and Mixed-Signal (AMS) Integrated Circuit Design. I also build full stack web applications, from the database to the user interface. <!-- NEW -->
 My work focuses on low-level systems programming, real-time control, FPGA RTL design, and analog/mixed-signal IC modeling and simulation using the Synopsys EDA suite.
 
 🔍 **Current Focus:**
@@ -10,6 +10,17 @@ My work focuses on low-level systems programming, real-time control, FPGA RTL de
 - **Digital Verification:** Functional simulation and debugging with **Synopsys VCS** and **Verdi**.
 - **Embedded Firmware:** Bare-metal and FreeRTOS development for RP2040, ESP32, and STM32.
 - **Systems & Infrastructure:** Linux administration (Rocky Linux) and hardware-level network protocols.
+- **Full Stack Web Development:** Building and deploying web applications with **React**, **TypeScript**, **Node.js**, **Express**, and **PostgreSQL** (Prisma ORM). <!-- NEW -->
+
+🚀 **Featured Project: Kanban Full Stack** <!-- NEW -->
+
+A deployed Kanban task manager with user accounts, boards, and drag-and-drop cards.
+
+- **Live demo:** [kanban-fullstack-gold.vercel.app](https://kanban-fullstack-gold.vercel.app)
+- **Source code:** [github.com/devdenisviana/kanban-fullstack](https://github.com/devdenisviana/kanban-fullstack)
+- **Front end:** React, TypeScript, Vite, React Router, dnd-kit, react-i18next (English/Portuguese)
+- **Back end:** Node.js, Express, TypeScript, Zod validation, JWT authentication, bcrypt
+- **Database & deploy:** PostgreSQL (Neon) with Prisma ORM; Vercel (front end) and Render (API)
 
 📚 **Areas of Expertise:**
 
@@ -20,6 +31,7 @@ My work focuses on low-level systems programming, real-time control, FPGA RTL de
 - Systems Programming (C/C++)
 - Internet of Things (IoT) architectures and Modbus/MQTT communication
 - Real-Time Operating Systems (RTOS)
+- Full Stack Web Development: REST APIs, JWT authentication, relational data modeling, responsive and bilingual (i18n) interfaces <!-- NEW -->
 
 🛠️ **Synopsys EDA Stack:**
 
@@ -40,6 +52,14 @@ My work focuses on low-level systems programming, real-time control, FPGA RTL de
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> <!-- NEW -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> <!-- NEW -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" /> <!-- NEW -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> <!-- NEW -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" /> <!-- NEW -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <!-- NEW -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <!-- NEW -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /> <!-- NEW -->
 </p>
 
 🎓 **Current Program:** CI-Expert (Universidade Federal do Ceará) — Mixed-Signal Track, applying the Synopsys AMS flow to progressively complex analog blocks: device characterization → current mirrors → op-amps → folded cascode → bandgap references.
