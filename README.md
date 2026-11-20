@@ -45,8 +45,9 @@
 💻 I am a software and hardware developer specializing in Embedded Systems, Microelectronics, and Mixed-Signal (AMS) Integrated Circuit Design. I also build full stack and backend web applications, from the database to the user interface.
 My work focuses on low-level systems programming, real-time control, FPGA RTL design, and analog/mixed-signal IC modeling and simulation using the Synopsys EDA suite.
 
-### 🚀 Featured Project: Kanban Full Stack
+### 🚀 Featured Projects
 
+#### Kanban Full Stack
 A deployed Kanban task manager with user accounts, boards, and drag-and-drop cards.
 
 - **Live demo:** [kanban-fullstack-gold.vercel.app](https://kanban-fullstack-gold.vercel.app)
@@ -54,6 +55,28 @@ A deployed Kanban task manager with user accounts, boards, and drag-and-drop car
 - **Front end:** React, TypeScript, Vite, React Router, dnd-kit, react-i18next (English/Portuguese)
 - **Back end:** Node.js, Express, TypeScript, Zod validation, JWT authentication, bcrypt
 - **Database & deploy:** PostgreSQL (Neon) with Prisma ORM; Vercel (front end) and Render (API)
+
+#### Astra Nova
+Browser-based space strategy and fleet combat game with full-stack architecture.
+
+- **Live site:** [www.astranova.com.br](https://www.astranova.com.br)
+- **Repository:** `devdenisviana/astranova` *(Private repository)*
+
+#### Jornada de TI
+Tech career portal with automated content publishing and job aggregation workflows.
+
+- **Live site:** [www.jornadadeti.com.br](https://www.jornadadeti.com.br)
+- **Repository:** `devdenisviana/jornadadeti` *(Private repository)*
+
+#### Bancada de Componentes (Component Workbench)
+Electronic components and circuit reference/organization repository for lab and prototyping work.
+
+- **Source code:** [github.com/devdenisviana/bancada-componentes](https://github.com/devdenisviana/bancada-componentes) *(Public repository)*
+
+#### Gabarito Scanner
+Android application for optical mark recognition (OMR) and automated exam/answer-sheet grading.
+
+- **Source code:** [github.com/devdenisviana/gabarito-scanner](https://github.com/devdenisviana/gabarito-scanner) *(Public repository)*
 
 ### 🔍 Current Focus
 
@@ -100,8 +123,9 @@ CI-Expert (Universidade Federal do Ceará) — Mixed-Signal Track, applying the 
 💻 Sou desenvolvedor de software e hardware, com especialização em Sistemas Embarcados, Microeletrônica e Projeto de Circuitos Integrados de Sinal Misto (AMS). Também desenvolvo aplicações web full stack e backend, do banco de dados à interface.
 Meu trabalho se concentra em programação de sistemas de baixo nível, controle em tempo real, projeto RTL para FPGA e modelagem e simulação de CIs analógicos e de sinal misto com o ambiente EDA da Synopsys.
 
-### 🚀 Projeto em Destaque: Kanban Full Stack
+### 🚀 Projetos em Destaque
 
+#### Kanban Full Stack
 Um gerenciador de tarefas Kanban publicado na internet, com contas de usuário, quadros e cards com arrastar e soltar.
 
 - **Demonstração online:** [kanban-fullstack-gold.vercel.app](https://kanban-fullstack-gold.vercel.app)
@@ -109,6 +133,28 @@ Um gerenciador de tarefas Kanban publicado na internet, com contas de usuário, 
 - **Front-end:** React, TypeScript, Vite, React Router, dnd-kit, react-i18next (inglês/português)
 - **Back-end:** Node.js, Express, TypeScript, validação com Zod, autenticação JWT, bcrypt
 - **Banco de dados e deploy:** PostgreSQL (Neon) com Prisma ORM; Vercel (front-end) e Render (API)
+
+#### Astra Nova
+Jogo de estratégia espacial e combate de frotas no navegador, com arquitetura full-stack.
+
+- **Site publicado:** [www.astranova.com.br](https://www.astranova.com.br)
+- **Repositório:** `devdenisviana/astranova` *(Repositório privado)*
+
+#### Jornada de TI
+Portal de tecnologia e carreiras com automação de publicação e coleta de vagas.
+
+- **Site publicado:** [www.jornadadeti.com.br](https://www.jornadadeti.com.br)
+- **Repositório:** `devdenisviana/jornadadeti` *(Repositório privado)*
+
+#### Bancada de Componentes
+Repositório de referência e organização de componentes eletrônicos e circuitos para bancada e prototipagem.
+
+- **Código-fonte:** [github.com/devdenisviana/bancada-componentes](https://github.com/devdenisviana/bancada-componentes) *(Repositório público)*
+
+#### Gabarito Scanner
+Aplicativo Android para leitura óptica (OMR) e correção automatizada de gabaritos e provas.
+
+- **Código-fonte:** [github.com/devdenisviana/gabarito-scanner](https://github.com/devdenisviana/gabarito-scanner) *(Repositório público)*
 
 ### 🔍 Foco Atual
 
